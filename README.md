@@ -10,3 +10,5 @@ for example you can say select pixeles that has the scale of a color between 0, 
 and what this program will do is that it will change all of the pixeles thay has a color between black and white (grays, black, white),
 then you can save the image that you've made just as a png.
 and the same for this you can convert the image into the type that you want using some program that you could find on internet.
+
+for using this program just download the zip file.
