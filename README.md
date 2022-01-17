@@ -4,4 +4,5 @@ And this tool's benifit is that it can changes the color of pixels all over the 
 but not just like selecting them by one color but its selected by a scale between two color values you put to the tool.
 
 for example you can say select pixeles that has the scale of a color between 0, 0, 0 and 255, 255, 255 and change their color to 255, 0, 0,
-and what this program will do is that it will change all of the pixeles thay has a color between black and white (grays, black, white).
+and what this program will do is that it will change all of the pixeles thay has a color between black and white (grays, black, white),
+then you can save the image that you've made just as a png.
