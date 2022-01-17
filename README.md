@@ -3,7 +3,7 @@ Grading color selector is a tool for editing images.
 This program acsepts just png images sorry about this :p,
 but you can convert your image into png by another program so you can use this tool.
 
-And this tool's benifit is that it can changes the color of pixels all over the image that are selected by their color too
+And this tool's benifit is that it can changes the color of pixels all over the image that are selected automaticly by their color that u've put
 , but not just like selecting them by one color but its selected by a scale between two color values you put to the tool.
 
 For example you can say select pixeles that has the scale of a color between 0, 0, 0 and 255, 255, 255 and change their color to (255, 0, 0) ,
