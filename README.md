@@ -1,5 +1,6 @@
 # Grading-Color-Selector
 Grading color selector is a tool for editing images.
+this program acsepts just png images.
 And this tool's benifit is that it can changes the color of pixels all over the image that are selected by their color too
 but not just like selecting them by one color but its selected by a scale between two color values you put to the tool.
 
